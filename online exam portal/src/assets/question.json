@@ -1,0 +1,183 @@
+{
+    "question": [{
+            "questionText": "1.Which of the following statement is correct for angular JS?",
+            "options": [{
+                    "text": "Angular JS is Javascript framework",
+                    "correct": true
+                },
+                {
+                    "text": "AngularJS is Sql framework"
+                },
+                {
+                    "text": "AngularJS is a html framework"
+                },
+                {
+                    "text": "AngularJS is a java Framework"
+                }
+            ],
+            "explanation": "ANGULARJS is based on JAvaScript"
+        },
+        {
+            "questionText": "2.On which of the Architectural pattern AngularJS is based?",
+            "options": [{
+                    "text": "Observer"
+                },
+                {
+                    "text": "Decorator"
+                },
+                {
+                    "text": "MVC"
+                },
+                {
+                    "text": "MVVM",
+                    "correct": true
+                }
+            ],
+            "explanation": "MVVM is used"
+        },
+        {
+            "questionText": "3.AngularJs is perfect for?",
+            "options": [{
+                    "text": "MPA"
+                },
+                {
+                    "text": "SPA.",
+                    "correct": true
+                },
+                {
+                    "text": "DPA."
+                },
+                {
+                    "text": "CPA."
+                }
+            ],
+            "explanation": "SPA Is used for ANGULARJS framework"
+        },
+        {
+            "questionText": "4.How else can Array<number> be written in TypeScript?",
+            "options": [{
+                    "text": "@number"
+                },
+                {
+                    "text": "number[]",
+                    "correct": true
+                },
+                {
+                    "text": "number!"
+                },
+                {
+                    "text": "number?"
+                }
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        },
+        {
+            "questionText": "5.Which of the following is the correct syntax for ANGULARJS Expressions?",
+            "options": [{
+                    "text": "{{expression}}",
+                    "correct": true
+                },
+                {
+                    "text": "(expression)"
+                },
+                {
+                    "text": "{{{expression}}}"
+                },
+                {
+                    "text": "[expression]"
+                }
+            ],
+            "explanation": "{{expression}} is used"
+        },
+        {
+            "questionText": "6.Do AngularJS provide reusable components??",
+            "options": [{
+                    "text": "error"
+                },
+                {
+                    "text": "no"
+                },
+                {
+                    "text": "none"
+                },
+                {
+                    "text": "YES",
+                    "correct": true
+                }
+            ],
+            "explanation": "YES it is used"
+        },
+        {
+            "questionText": "7.Which of the following is not a angular filter?",
+            "options": [{
+                    "text": "import"
+                },
+                {
+                    "text": "email",
+                    "correct": true
+                },
+                {
+                    "text": "lowpass"
+                },
+                {
+                    "text": "constructor"
+                }
+            ],
+            "explanation": "emial is not "
+        },
+        {
+            "questionText": "8.Which is an array method to generate a new array based on a condition?",
+            "options": [{
+                    "text": "filter",
+                    "correct": true
+                },
+                {
+                    "text": "map"
+                },
+                {
+                    "text": "async"
+                },
+                {
+                    "text": "enum"
+                }
+            ],
+            "explanation": "filter is a method used to conditionally create a new array"
+        },
+        {
+            "questionText": "9.Who is father of HTML?",
+            "options": [{
+                    "text": "Tim Berners Lee",
+                    "correct": true
+                },
+                {
+                    "text": "Stonnies"
+                },
+                {
+                    "text": "Starc"
+                },
+                {
+                    "text": "Arun bladge"
+                }
+            ],
+            "explanation": "Tim Berners Lee"
+        },
+        {
+            "questionText": "10.Who is father of JAVA SCRIPT?",
+            "options": [{
+                    "text": "Jordan Walke",
+                    "correct": true
+                },
+                {
+                    "text": "Krunal Brade"
+                },
+                {
+                    "text": "richard"
+                },
+                {
+                    "text": "donu surekh"
+                }
+            ],
+            "explanation": "Jordan Walke"
+        }
+    ]
+}

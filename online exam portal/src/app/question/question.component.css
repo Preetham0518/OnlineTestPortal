@@ -1,0 +1,33 @@
+body{
+    background-color:rgba(25, 13, 116, 0.37)
+}
+
+.options{
+    color: rgb(237, 19, 19);
+}
+.question{
+    color:black
+}
+
+
+.card {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+    border:2px rgb(182, 193, 214)
+}
+
+li {
+    list-style-type: none;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+li .card:hover {
+    border: 1px solid rgba(147, 172, 195, 0.896);
+    background-color: rgb(38, 206, 206);
+}
+
+ol {
+    padding: 0;
+}

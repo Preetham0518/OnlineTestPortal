@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(54, 83, 7);
+}
+
+.text-center text-lg-start bg-light text-muted{
+    background-color: bisque;
+}
